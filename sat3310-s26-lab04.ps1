@@ -1,6 +1,6 @@
 # SAT 3310 - Lab 4
 # Created by Athena Lieu (xlieu@mtu.edu)
-# Date: May 20th, 2026
+# Date: May 19th, 2026
 # Comments: The program opens two files,
 # counts the number of words,
 # stores the words in an array,
@@ -10,7 +10,7 @@
 # Variables
 
 # Set the default directory where the files are located
-$defaultdir = "C:\Users\sat3310\Documents\labs\SAT3310---Lab-4\data"
+$defaultdir = "C:\Users\sat3310\Documents\labs\SAT-3310---Lab-4\data"
 
 # Set the filenames for the nouns and agent nouns
 $nouns = "nouns.txt"
